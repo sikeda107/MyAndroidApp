@@ -1,0 +1,5 @@
+.gradle/
+.idea/
+MyAndroidApp.iml
+app/app.iml
+local.properties
